@@ -1,0 +1,29 @@
+2025-10-20 10:12:31.131 | INFO     | __main__:<module>:61 - Parsed arguments -> Namespace(SLAMselect='maskedDroidSLAM', HMRselect='VIMO')
+2025-10-20 10:12:31.133 | INFO     | __main__:<module>:66 - GPU name -> NVIDIA GeForce RTX 2080 Ti
+2025-10-20 10:12:31.133 | INFO     | __main__:<module>:67 - GPU feat -> _CudaDeviceProperties(name='NVIDIA GeForce RTX 2080 Ti', major=7, minor=5, total_memory=11011MB, multi_processor_count=68)
+2025-10-20 10:13:17.645 | INFO     | __main__:<module>:296 - 09_outdoor_walk | PA-MPJPE: 35.7   wa_mpjpe: 58.3   w_mpjpe: 171.9; RTE:0.8; ATE:0.5; ATE-S:0.6; 
+2025-10-20 10:13:26.116 | INFO     | __main__:<module>:296 - 19_indoor_walk_off_mvs | PA-MPJPE: 38.6   wa_mpjpe: 72.0   w_mpjpe: 153.1; RTE:2.2; ATE:0.6; ATE-S:0.6; 
+2025-10-20 10:13:42.703 | INFO     | __main__:<module>:296 - 20_outdoor_walk | PA-MPJPE: 39.7   wa_mpjpe: 60.7   w_mpjpe: 174.7; RTE:1.5; ATE:0.6; ATE-S:1.4; 
+2025-10-20 10:14:04.863 | INFO     | __main__:<module>:296 - 24_outdoor_long_walk | PA-MPJPE: 42.4   wa_mpjpe: 78.5   w_mpjpe: 184.7; RTE:1.6; ATE:0.6; ATE-S:1.7; 
+2025-10-20 10:14:15.047 | INFO     | __main__:<module>:296 - 27_indoor_walk_off_mvs | PA-MPJPE: 31.4   wa_mpjpe: 61.0   w_mpjpe: 180.6; RTE:0.5; ATE:0.2; ATE-S:0.2; 
+2025-10-20 10:14:28.762 | INFO     | __main__:<module>:296 - 28_outdoor_walk_lunges | PA-MPJPE: 42.0   wa_mpjpe: 69.9   w_mpjpe: 194.5; RTE:0.9; ATE:0.2; ATE-S:0.8; 
+2025-10-20 10:14:35.855 | INFO     | __main__:<module>:296 - 29_outdoor_stairs_up | PA-MPJPE: 34.9   wa_mpjpe: 60.1   w_mpjpe: 115.3; RTE:0.6; ATE:0.1; ATE-S:0.1; 
+2025-10-20 10:14:43.373 | INFO     | __main__:<module>:296 - 30_outdoor_stairs_down | PA-MPJPE: 36.4   wa_mpjpe: 67.9   w_mpjpe: 165.0; RTE:0.6; ATE:0.2; ATE-S:0.2; 
+2025-10-20 10:14:53.702 | INFO     | __main__:<module>:296 - 35_indoor_walk | PA-MPJPE: 32.2   wa_mpjpe: 53.2   w_mpjpe: 131.6; RTE:0.6; ATE:0.1; ATE-S:0.1; 
+2025-10-20 10:15:13.676 | INFO     | __main__:<module>:296 - 36_outdoor_long_walk | PA-MPJPE: 36.9   wa_mpjpe: 63.6   w_mpjpe: 221.5; RTE:0.6; ATE:0.3; ATE-S:0.5; 
+2025-10-20 10:15:19.658 | INFO     | __main__:<module>:296 - 37_outdoor_run_circle | PA-MPJPE: 37.2   wa_mpjpe: 63.4   w_mpjpe: 131.1; RTE:0.3; ATE:0.0; ATE-S:0.0; 
+2025-10-20 10:15:40.265 | INFO     | __main__:<module>:296 - 40_indoor_walk_big_circle | PA-MPJPE: 37.2   wa_mpjpe: 69.5   w_mpjpe: 166.2; RTE:1.0; ATE:0.6; ATE-S:0.7; 
+2025-10-20 10:15:55.258 | INFO     | __main__:<module>:296 - 48_outdoor_walk_downhill | PA-MPJPE: 36.9   wa_mpjpe: 59.4   w_mpjpe: 163.0; RTE:1.2; ATE:0.2; ATE-S:0.7; 
+2025-10-20 10:16:05.457 | INFO     | __main__:<module>:296 - 49_outdoor_big_stairs_down | PA-MPJPE: 52.4   wa_mpjpe: 74.7   w_mpjpe: 117.8; RTE:0.6; ATE:0.0; ATE-S:0.1; 
+2025-10-20 10:16:20.586 | INFO     | __main__:<module>:296 - 55_outdoor_walk | PA-MPJPE: 43.2   wa_mpjpe: 63.9   w_mpjpe: 185.3; RTE:2.2; ATE:0.4; ATE-S:1.4; 
+2025-10-20 10:16:28.363 | INFO     | __main__:<module>:296 - 56_outdoor_stairs_up_down | PA-MPJPE: 40.7   wa_mpjpe: 79.2   w_mpjpe: 226.9; RTE:0.6; ATE:0.0; ATE-S:0.2; 
+2025-10-20 10:16:38.220 | INFO     | __main__:<module>:296 - 57_outdoor_rock_chair | PA-MPJPE: 42.4   wa_mpjpe: 88.9   w_mpjpe: 174.7; RTE:0.3; ATE:0.0; ATE-S:0.1; 
+2025-10-20 10:16:48.441 | INFO     | __main__:<module>:296 - 58_outdoor_parcours | PA-MPJPE: 40.0   wa_mpjpe: 87.9   w_mpjpe: 223.1; RTE:0.7; ATE:0.3; ATE-S:0.3; 
+2025-10-20 10:17:01.654 | INFO     | __main__:<module>:296 - 61_outdoor_sit_lie_walk | PA-MPJPE: 45.5   wa_mpjpe: 76.1   w_mpjpe: 194.4; RTE:2.8; ATE:0.4; ATE-S:1.3; 
+2025-10-20 10:17:13.695 | INFO     | __main__:<module>:296 - 64_outdoor_skateboard | PA-MPJPE: 46.4   wa_mpjpe: 85.3   w_mpjpe: 277.5; RTE:1.0; ATE:0.4; ATE-S:0.6; 
+2025-10-20 10:17:28.965 | INFO     | __main__:<module>:296 - 65_outdoor_walk_straight | PA-MPJPE: 32.0   wa_mpjpe: 48.6   w_mpjpe: 169.2; RTE:2.7; ATE:0.5; ATE-S:1.8; 
+2025-10-20 10:17:34.500 | INFO     | __main__:<module>:296 - 77_outdoor_stairs_up | PA-MPJPE: 34.3   wa_mpjpe: 66.4   w_mpjpe: 168.5; RTE:1.2; ATE:0.1; ATE-S:0.1; 
+2025-10-20 10:17:42.915 | INFO     | __main__:<module>:296 - 78_outdoor_stairs_up_down | PA-MPJPE: 36.8   wa_mpjpe: 188.9   w_mpjpe: 560.3; RTE:2.3; ATE:0.8; ATE-S:0.8; 
+2025-10-20 10:17:59.022 | INFO     | __main__:<module>:296 - 79_outdoor_walk_rectangle | PA-MPJPE: 30.8   wa_mpjpe: 50.9   w_mpjpe: 184.2; RTE:0.3; ATE:0.1; ATE-S:0.2; 
+2025-10-20 10:18:17.647 | INFO     | __main__:<module>:296 - 80_outdoor_walk_big_circle | PA-MPJPE: 33.3   wa_mpjpe: 73.3   w_mpjpe: 336.4; RTE:1.5; ATE:0.7; ATE-S:1.5; 
+2025-10-20 10:18:17.648 | INFO     | __main__:<module>:333 - Evaluation on EMDB 2, PA_MPJPE: 38.6479, WA_MPJPE: 70.9732, W_MPJPE: 197.3821, RTE: 1.2213, ATE: 0.3688, ATE_S: 0.7878,
