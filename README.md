@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h4> <a href=https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Humans_as_Checkerboards_Calibrating_Camera_Motion_Scale_for_World-Coordinate_Human_ICCV_2025_paper.pdf>[Paper]</a>, <a href=https://openaccess.thecvf.com/content/ICCV2025/supplemental/Yang_Humans_as_Checkerboards_ICCV_2025_supplemental.zip>[Supp]</a>, <a href=http://arxiv.org/abs/2407.00574>[arXiv]</a></h4>
+  <h4> <a href=https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Humans_as_Checkerboards_Calibrating_Camera_Motion_Scale_for_World-Coordinate_Human_ICCV_2025_paper.pdf>[Paper]</a>, <a href=https://openaccess.thecvf.com/content/ICCV2025/supplemental/Yang_Humans_as_Checkerboards_ICCV_2025_supplemental.zip>[Supp]</a>, <a href=http://arxiv.org/abs/2407.00574>[arXiv]</a>, <a href=https://martayang.github.io/HAC>[Project page]</a></h4>
 </div>
 
 ## 1. Requirements
